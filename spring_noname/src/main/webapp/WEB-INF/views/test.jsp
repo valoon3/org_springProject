@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-  오늘은 친구들을 만나는 날 ㅁㄴㅇㄹㅁㄴㅇ
+  오늘은 친구들을 만나는 날!!!!
 </body>
 </html>
